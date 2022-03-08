@@ -1,9 +1,9 @@
 body {
     font-family: Optima,  Arial, Helvetica, sans-serif
-    background-image: url( "https://thumbs.dreamstime.com/b/grey-mountain-landscape-vector-illustration-nature-background-morning-96229500.jpg");
-    
 }
-p{
-    color: yellow
+h1{
+    font-family: 'Courier New', Courier, monospace;
 }
-
+h3{
+    color-scheme: yellow;
+}
