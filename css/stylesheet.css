@@ -1,9 +1,4 @@
-body {
-    font-family: Optima,  Arial, Helvetica, sans-serif
-}
-h1{
-    font-family: 'Courier New', Courier, monospace;
-}
-h3{
-    color-scheme: yellow;
+body{
+    font-family: Arial, Helvetica, sans-serif
+    background-color red;
 }
